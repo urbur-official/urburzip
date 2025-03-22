@@ -69,8 +69,8 @@ export default function ApplyForm() {
       phone: values.phone,
       sid: Number(values.sid),
       name: values.username,
-      year: 2024,
-      semester: 2,
+      year: 2025,
+      semester: 1,
     });
 
     if (error) {
